@@ -7,11 +7,9 @@ services:
     ports:
       - "50000:50000"
       - "8880:8080"
-    restart: always
     volumes:
-      - type: bind
-        source: ./jenkins_controller/jenkins.yaml
-        target: /usr/share/jenkins/ref/jenkins.yaml
+      - ./jenkins_controller/jenkins.yaml:/usr/share/jenkins/ref/jenkins.yaml
+    restart: always
 
   sonarqube:
     depends_on:
