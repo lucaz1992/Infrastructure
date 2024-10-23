@@ -6,11 +6,50 @@ credentials:
           id: "jenkins_agent"
           privateKeySource:
             directEntry:
-              privateKey: "{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}"
+              privateKey: |
+                -----BEGIN RSA PRIVATE KEY-----
+                MIIEpAIBAAKCAQEAmicV5fguBrJiHK7F0Ppqkv7fUjbBa7Y+S333Zza/PvWuNFFB
+                w19ZintulPKEmqwnIi2BLV1rFrZdVZkEuiQHVSOb2SktidDbeqHvgB/ctj4S+sLa
+                lLHpdmiR1JPMNdw35LfsOrWQUMQrswQ71kbeobKa1bib1qCAjGWp1TqF2/gXycfd
+                d95hv7r4hf64LRKp+Qqk2x1jdXFLPo3otBjpX8kK/xkez+XD+m2sXucsQnm6IZYG
+                2Lw68FE9mQUpSRyGqm623gRf8ooAnFggPc+Oj7mynP6iHA2OanhbpXctJqhHaTCC
+                wy43K7YnZ6eML0WvHMWZeMPXzWBsCvAuev2/ZwIDAQABAoIBAEJle2UmVIzF4MSB
+                8upkMetGpGIA+6atRH+3rgxi5FT19SbLqQvB0gt3xtWY78y/QcvS1cT4a9vIiMMJ
+                uaODSTU+tS4AMoEd2KslfMcu8h389qfTrdpGF0zNFaL+VgMM63Y0UiendJWVKU1e
+                EXfl5pa3G0Ha1iTH1Raj41bYcjegI1kNl1chilQs+iUNviQAmfMB5FAZaz4BcNnk
+                KdGZiVQDxT7t5LPXcjNmRlzIBBz/VLtj6u7D8cM7Jwp0mN+apAlIZ212CFzWpNRl
+                Bgy1x53xyPWk++Jr3Ti5ewdxIGwu4cDsET18MUOA1bMEQsWamCFSrw+TR7bKGVB4
+                WuQOA+ECgYEA55e/K++vlpOH4GT/YelNZaKmXs/Qzip0KxyQbRzHhPk8Y/ZNz7Zj
+                jxw60anwdkEheiloBBtw3O5+gVidy8UJh5LZgZhPiZc85bluoKRyDGtRHKmJqTc5
+                DpX0A3DquF1lshcFSNornYSiwryp09YYfCxyL9O/X9zbabfQxscgchMCgYEAqmYL
+                l41A4dRhsBtpc6HrFcyCBrAodU18UdZF2ymWubUvl89pzWWmkqbo3xrXbtKNvclO
+                IVUCz3MkJ4qguUrfDWv+Qc6QCXGMIz0T2L/26rE4Ksv4kV4RHq11nmQa6dZKHHN0
+                KF/yQEVwGpf29OBK22fLKAl7GPyCr7y1A2VIR90CgYAWyvaDqnlLhoWO7iG8TyvQ
+                3usk1aslP0RjodINCxIP4j+xTuJlmPu/b/XSALmryckzrrOQA+tdsxM8Q650CZZg
+                g3FoscbSMdJKga+Dm+ulkUJQYdcskkTJTLTRSeGv93E0z9MzUlWMkSs7oznLoXyT
+                bARo9JwXITNu+ipQBfUJhQKBgQCTxel5pctFzYxmUG90E1CvV+rPaAe+KtOMmTl9
+                piSLqsC6c+q6cNQzTEKZ8UoxVrILi7+REotcYutQy101M+QaXLRkV4H8Xpd8m+RR
+                TbERuV0PaFKJpr1MEHv3P7NDZU5iPBHZTdPlvxJITc+ib70bZ3j8oLQ7aAjh5NJK
+                PpSflQKBgQDk1DqibVOtmTadXDno2dYpZFX4my0ucqHAKVAUQREyKqkLdhHq8osy
+                vHoVFMY0B2SYTiTNEa4Pe8rv+zaXliYVZoq2P/XbEK4qoWl2QpWxTSz4cYHUoiZN
+                o1epS4clbUspxKat9tbIIRccKa9GWXVDNLih8TslLCBoL/knJc+aqw==
+                -----END RSA PRIVATE KEY-----
           scope: GLOBAL
           username: "jenkins"
 jenkins:
   numExecutors: 0
+  nodes:
+   - permanent:
+       labelString: "agent"
+       launcher:
+         ssh:
+           credentialsId: "jenkins_agent"
+           host: "192.168.44.44"
+           port: 2222
+           sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
+       name: "agent"
+       remoteFS: "/home/jenkins/agent"
+       retentionStrategy: "always"
   securityRealm:
     local:
       users:
