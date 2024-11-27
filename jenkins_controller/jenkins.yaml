@@ -97,4 +97,4 @@ unclassified:
       - installSource:
           installers:
           - terraformInstaller:
-              id: "41106-linux-amd64"
+              id: "20413-linux-amd64"
